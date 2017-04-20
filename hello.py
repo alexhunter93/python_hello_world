@@ -1,1 +1,3 @@
-print('Hello, World!')
+from functions import print_hello
+
+print_hello()
